@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm PARI AJAY</h1>
 <h3 align="center">A Graduate from Computer Engineering at ganpat University. India</h3>
-
+<img align="right" alt="devops" width="400" src="https://imgs.search.brave.com/LZ3NwGsHwPg5IUPMJrTf5EBdzCVfWV-Ll4zvJLNJlVc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/QXNhaWRQbURnWkVB/QUFBTS9kZXZvcHMu/Z2lm.gif">
+<img align="right" alt="devops" width="400" src="https://imgs.search.brave.com/LZ3NwGsHwPg5IUPMJrTf5EBdzCVfWV-Ll4zvJLNJlVc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/QXNhaWRQbURnWkVB/QUFBTS9kZXZvcHMu/Z2lm.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-pari-26&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-pari-26" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajay-pari-26" alt="ajay-pari-26" /></a> </p>
