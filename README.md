@@ -8,8 +8,6 @@
 
 - 🔭 I’m completed [home loan prediction](https://github.com/Ajay-Pari-26/home-loan-prediction-application)
 
-- 🌱 I’m currently learning **DevOps, Aws.**
-
 - 🔭 I’m completed [Online job Portal](https://github.com/Ajay-Pari-26/online-job-portal)
 
 - 📫 How to reach me **ajay2102002@gmail.com**
