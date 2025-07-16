@@ -1,31 +1,71 @@
-<h1 align="center">Hi 👋, I'm PARI AJAY</h1>
-<h3 align="center">A Graduate from Computer Engineering at ganpat University. India</h3>
+<h1 align="center">AJAY PARI</h1>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-pari-26&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-pari-26" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajay-pari-26" alt="ajay-pari-26" /></a> </p>
-
-- 🔭 I’m completed [home loan prediction](https://github.com/Ajay-Pari-26/home-loan-prediction-application)
-
-- 🔭 I’m completed [Online job Portal](https://github.com/Ajay-Pari-26/online-job-portal)
-
-- 📫 How to reach me **ajay2102002@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AfSOiUXzGbrwdn1J7IUgnmw4X6ziE1mu/view?usp=drive_link](https://drive.google.com/file/d/1AfSOiUXzGbrwdn1J7IUgnmw4X6ziE1mu/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pari-ajay-a538b7221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pari-ajay-a538b7221" height="30" width="40" /></a>
-<a href="https://instagram.com/ajay_pari_2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajay_pari_2026" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ajay2102002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajay2102002" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:ajay2102002@gmail.com"><img src="https://img.shields.io/badge/Email-ajay2102002@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+919676820660"><img src="https://img.shields.io/badge/Phone-%2B91%209676820660-black?style=flat&logo=phone&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/pari-ajay-a538b7221" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-AJAY%20PARI-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/ajay-pari-26" target="_blank"><img src="https://img.shields.io/badge/GitHub-AJAY%20PARI-black?style=flat&logo=github" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay-pari-26&show_icons=true&locale=en&layout=compact" alt="ajay-pari-26" /></p>
+## 💼 Career Objective
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajay-pari-26&show_icons=true&locale=en" alt="ajay-pari-26" /></p>
+Passionate Java Backend Developer. Seeking an entry-level backend role to contribute to scalable web applications and to further develop my skills in a collaborative team environment.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-pari-26&" alt="ajay-pari-26" /></p>
+---
+
+## 🎓 Education
+
+**Bachelor of Technology**  
+*Ganpat University, Mehsana, Gujarat*  
+Branch: Computer Engineering | CGPA: 6.92 | 08/2020 – 06/2024
+
+**12th Standard**  
+*Narayana Junior College, Guntur, Andhra Pradesh*  
+CGPA: 9.69 | 2018 – 2020
+
+**10th Standard**  
+*Sriji High School, Ongole, Andhra Pradesh*  
+CGPA: 10.0 | 2017 – 2018
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages:** Java  
+- **Frameworks:** Spring Boot, Spring, Hibernate, J2EE  
+- **Web Services:** RESTful API development  
+- **Frontend:** Angular (Component-based Web UI)  
+- **Database:** SQL & NoSQL  
+- **Cloud/DevOps:** AWS (S3, Lambda, EC2), Docker, CI/CD (GitHub Actions, Jenkins, GitLab CI)  
+- **Tools & Platforms:** GitHub, Postman, IntelliJ IDEA  
+- **Concepts:** OOPS, Microservices  
+- **Soft Skills:** Communication, Team collaboration, Analytical & Problem-solving  
+
+---
+
+## 💼 Internship Experience
+
+**Java Developer Intern**  
+*MetrolabsServices Pvt Ltd, Hyderabad*  
+**Nov 2024 – Feb 2025**  
+- Developed RESTful web services using Spring Boot  
+- Built backend modules using Spring MVC, JPA, and MySQL  
+- Applied microservices architecture for improved scalability
+
+---
+
+## 🧪 Projects
+
+**E-Commerce Backend – Java Spring Boot Project**  
+**Mar 2025 – May 2025**  
+- Built scalable backend for e-commerce app using Spring Boot & Java  
+- Divided services into User, Product, Cart, and Order  
+- Implemented JWT-based user registration/login using Spring Security  
+- Created REST endpoints for managing products, categories, and orders  
+- Used MySQL with JPA for data persistence  
+- Integrated services with REST APIs and Feign Clients  
+- Enforced role-based access control and global exception handling
+
+---
