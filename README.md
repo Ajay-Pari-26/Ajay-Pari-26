@@ -1,11 +1,23 @@
 <h1 align="center">AJAY PARI</h1>
 
 <p align="center">
-  <a href="mailto:ajay2102002@gmail.com"><img src="https://img.shields.io/badge/Email-ajay2102002@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+919676820660"><img src="https://img.shields.io/badge/Phone-%2B91%209676820660-black?style=flat&logo=phone&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/pari-ajay-a538b7221" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-AJAY%20PARI-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/ajay-pari-26" target="_blank"><img src="https://img.shields.io/badge/GitHub-AJAY%20PARI-black?style=flat&logo=github" /></a>
+  <a href="mailto:ajay2102002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ajay2102002@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+919676820660">
+    <img src="https://img.shields.io/badge/Phone-%2B91%209676820660-black?style=flat&logo=phone&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/pari-ajay-a538b7221" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-AJAY%20PARI-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://github.com/ajay-pari-26" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-AJAY%20PARI-black?style=flat&logo=github" />
+  </a>
+  <a href="https://curious-kataifi-e1fe77.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Site-orange?style=flat&logo=netlify&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
