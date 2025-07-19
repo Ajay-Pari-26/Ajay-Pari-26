@@ -47,9 +47,9 @@ CGPA: 10.0 | 2017 – 2018
 
 - **Languages:** Java  
 - **Frameworks:** Spring Boot, Spring, Hibernate, J2EE  
-- **Web Services:** RESTful API development  
-- **Frontend:** Angular (Component-based Web UI)  
-- **Database:** SQL & NoSQL  
+- **Web Services:** RESTful API development 
+- **Frontend:** React (Component-based Web UI)  
+- **Database:** SQL 
 - **Cloud/DevOps:** AWS (S3, Lambda, EC2), Docker, CI/CD (GitHub Actions, Jenkins, GitLab CI)  
 - **Tools & Platforms:** GitHub, Postman, IntelliJ IDEA  
 - **Concepts:** OOPS, Microservices  
