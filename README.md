@@ -23,7 +23,8 @@
 
 ## 💼 SUMMARY
 
-I have over 1 year of experience working as a Java Backend Developer. I am good at using Java, Spring Boot, MySQL, and building REST APIs. I can design and build backend systems that are reliable and scalable. I enjoy solving problems, fixing bugs, and working with teams using Agile/Scrum methods. Right now, I am also learning microservices and cloud technologies to improve how backend systems work and scale.
+Passionate Java Backend Developer. Seeking an entry-level backend role to contribute to scalable web
+applications and to further develop my skills in a collaborative team environment.
 
 ---
 
@@ -39,27 +40,21 @@ I have over 1 year of experience working as a Java Backend Developer. I am good 
 
 ---
 
-## 💼 Professional Experience
-
-**Java Backend Developer**  
-*BMS INFOSOLUTIONS PRIVATE LIMITED, Bangalore*  
-**July 2024 – Present**  
-- Developed scalable and secure RESTful APIs using Java, Spring Boot, and Spring MVC for enterprise-level backend systems.
-- Designed and optimized MySQL database schemas and implemented efficient queries.
-- Implemented backend logic for user authentication, role-based access control, and session management.
-- Collaborated in Agile teams with frontend developers, QA engineers, and product managers to deliver features on time.
-- Used Postman and Swagger for API testing and documentation.
-- Participated in code reviews and resolved bugs to ensure high code quality and maintainability.
-- Integrated third-party APIs and performed backend performance tuning, reducing response time by ~25%.
-
----
 ## 🎓 Education
 
 **Bachelor of Technology**  
 *Ganpat University, Mehsana, Gujarat*  
 Branch: Computer Engineering | CGPA: 6.92 | 08/2020 – 06/2024
 
+---
+## 💼 Internship Experience
 
+**Java Backend Developer**  
+*Metrolabs Services PRIVATE LIMITED, Bangalore*  
+**Nov 2024 – Feb 2025**  
+- Developed RESTful web services using Spring Boot.
+- Built backend modules using Spring MVC, JPA, and MySQL, contributing to key business features.
+- Applied microservices architecture to improve scalability.
 
 ---
 
